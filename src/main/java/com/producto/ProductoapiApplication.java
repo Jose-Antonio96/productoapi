@@ -1,4 +1,4 @@
-package com.producto.productoapi;
+package com.producto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
